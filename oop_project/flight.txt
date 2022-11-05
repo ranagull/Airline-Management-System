@@ -1,0 +1,5 @@
+3,Ankara Airport,Milas-Bodrum Airport,22-10-2001,22:10,23:15,2,I
+2,Ankara Airport,Gaziantep Airport,22-10-2001,12:10,23:15,2,I
+3,Ankara Airport,Erzurum Airport,22-10-2001,22:9,23:15,5,D
+2,Ankara Airport,Gaziantep Airport,2-10-2021,10:10,23:15,2,D
+3,Kars Airport,Gaziantep Airport,22-1-2011,22:10,23:15,6,I
