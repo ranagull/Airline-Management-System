@@ -40,4 +40,4 @@ After user login:
 formed because of this.
 
 He has the authority to perform all ticket processing. Purchase, exchange,
-cancellation, inquiry and checkIn of tickets...
+cancellation, inquiry and checkIn of tickets..
